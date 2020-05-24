@@ -1,0 +1,26 @@
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+    //display: flex;
+    //align-items: center;
+    //justify-content: center;
+}
+
+.links {}
+
+
+li {
+
+    height: 100%;
+    float: left;
+    padding: 5px;
+    margin: 3px;
+    align-content: center;
+}
+
+.right {
+    float: right !important;
+}
